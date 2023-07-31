@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://www.insidesport.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-23-at-10.18.49-PM.jpeg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.half-black {
+  background-color: rgba(0, 0, 0, 0.5); 
+  max-width: 450px;
+  align-content: center;
+  justify-content: center;
+  margin: auto;
+}
+
+
+#save-btn {
+    background: darkgreen;
+}
+
+#barcelona-btn {
+    background: #a50044;
+    border: solid 5px #004d98;
+    color: #ffed02;
+}
+
+#real-madrid-btn {
+    background: white;
+    color: #00529F;
+    border: solid 5px #FEBE10;
+}
+
